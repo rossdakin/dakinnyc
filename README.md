@@ -1,2 +1,1 @@
-# dakinnyc
-Dakin NYC
+# Dakin NYC
